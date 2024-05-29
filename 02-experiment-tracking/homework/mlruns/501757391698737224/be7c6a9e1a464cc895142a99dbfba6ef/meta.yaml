@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/501757391698737224/be7c6a9e1a464cc895142a99dbfba6ef/artifacts
+end_time: 1716910479640
+entry_point_name: ''
+experiment_id: '501757391698737224'
+lifecycle_stage: active
+run_id: be7c6a9e1a464cc895142a99dbfba6ef
+run_name: enchanting-bear-608
+run_uuid: be7c6a9e1a464cc895142a99dbfba6ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716910464341
+status: 3
+tags: []
+user_id: GabrielOrce

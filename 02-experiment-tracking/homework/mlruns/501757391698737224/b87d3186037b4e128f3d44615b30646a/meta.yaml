@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/501757391698737224/b87d3186037b4e128f3d44615b30646a/artifacts
+end_time: 1716912076318
+entry_point_name: ''
+experiment_id: '501757391698737224'
+lifecycle_stage: active
+run_id: b87d3186037b4e128f3d44615b30646a
+run_name: awesome-steed-211
+run_uuid: b87d3186037b4e128f3d44615b30646a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716912056537
+status: 3
+tags: []
+user_id: GabrielOrce

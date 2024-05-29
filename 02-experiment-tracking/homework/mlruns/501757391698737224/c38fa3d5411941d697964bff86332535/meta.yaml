@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/501757391698737224/c38fa3d5411941d697964bff86332535/artifacts
+end_time: 1716911836553
+entry_point_name: ''
+experiment_id: '501757391698737224'
+lifecycle_stage: active
+run_id: c38fa3d5411941d697964bff86332535
+run_name: awesome-ray-851
+run_uuid: c38fa3d5411941d697964bff86332535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716911836175
+status: 3
+tags: []
+user_id: GabrielOrce

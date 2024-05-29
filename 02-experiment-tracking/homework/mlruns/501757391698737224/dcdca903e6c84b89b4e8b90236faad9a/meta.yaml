@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/501757391698737224/dcdca903e6c84b89b4e8b90236faad9a/artifacts
+end_time: 1716911910769
+entry_point_name: ''
+experiment_id: '501757391698737224'
+lifecycle_stage: active
+run_id: dcdca903e6c84b89b4e8b90236faad9a
+run_name: treasured-crow-149
+run_uuid: dcdca903e6c84b89b4e8b90236faad9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716911910383
+status: 3
+tags: []
+user_id: GabrielOrce

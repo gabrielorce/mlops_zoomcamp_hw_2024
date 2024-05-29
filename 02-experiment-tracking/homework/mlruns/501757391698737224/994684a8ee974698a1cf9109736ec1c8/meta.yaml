@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/501757391698737224/994684a8ee974698a1cf9109736ec1c8/artifacts
+end_time: 1716911983236
+entry_point_name: ''
+experiment_id: '501757391698737224'
+lifecycle_stage: active
+run_id: 994684a8ee974698a1cf9109736ec1c8
+run_name: debonair-rook-958
+run_uuid: 994684a8ee974698a1cf9109736ec1c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716911965140
+status: 3
+tags: []
+user_id: GabrielOrce

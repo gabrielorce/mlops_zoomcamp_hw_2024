@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/501757391698737224/6bccb8822bce47dd97b6e96c0a0ef184/artifacts
+end_time: 1716911496542
+entry_point_name: ''
+experiment_id: '501757391698737224'
+lifecycle_stage: active
+run_id: 6bccb8822bce47dd97b6e96c0a0ef184
+run_name: resilient-bee-394
+run_uuid: 6bccb8822bce47dd97b6e96c0a0ef184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716911496513
+status: 3
+tags: []
+user_id: GabrielOrce

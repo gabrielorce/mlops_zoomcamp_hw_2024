@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/501757391698737224/4e4b5bf5569f4937980d91199a896cb9/artifacts
+end_time: 1716911879683
+entry_point_name: ''
+experiment_id: '501757391698737224'
+lifecycle_stage: active
+run_id: 4e4b5bf5569f4937980d91199a896cb9
+run_name: polite-bug-154
+run_uuid: 4e4b5bf5569f4937980d91199a896cb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716911879293
+status: 3
+tags: []
+user_id: GabrielOrce
